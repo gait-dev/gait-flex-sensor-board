@@ -1,0 +1,5 @@
+board:
+  name: flex_sensor_board
+  vendor: gait
+  socs:
+  - name: stm32f373xc

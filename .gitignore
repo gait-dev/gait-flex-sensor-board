@@ -1,0 +1,10 @@
+# editors
+*.swp
+*~
+
+# python
+.venv
+
+/external*
+
+/gait-flex-sensor-board/build*

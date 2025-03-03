@@ -1,0 +1,15 @@
+identifier: flex-sensor-board/stm32f373xc
+name: Gait Flex Sensor Board STM32F373
+type: mcu
+arch: arm
+toolchain:
+  - gnuarmemb
+  - zephyr
+ram: 32
+flash: 1024
+supported:
+  - gpio
+  - i2c
+  - spi
+  - pwm
+vendor: st
